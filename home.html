@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <form action="http://localhost:7071/api/HttpTriggerCSharp2" method="GET">  // Replace this with your website's success callback URL
+    <script    src="https://checkout.razorpay.com/v1/checkout.js"    
+    data-key="Key" // Enter the Key ID generated from the Dashboard    
+    data-amount="50000" // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise    
+    data-currency="INR"    
+    data-order_id="orderId received after creating order"//This is a sample Order ID. Pass the `id` obtained in the response of the previous step.    
+    data-buttontext="Pay with Razorpay"    
+    data-name="Acme Corp"    
+    data-description="Test transaction"    
+    data-image="https://example.com/your_logo.jpg"    
+    data-prefill.name="Gaurav Kumar"    
+    data-prefill.email="gaurav.kumar@example.com"    
+    data-prefill.contact="7017152581"    
+    data-theme.color="#F37254">
+  </script>
+  <input type="hidden" custom="Hidden Element" name="hidden"></form>
+</body>
+</html>
