@@ -25,7 +25,7 @@ Generate <b>key_secret</b> and <b>key_id</b> from razorpay and put both in <b>lo
 }
 ```
 
-###Steps
+### Steps
 
 1. Create an Order 
   Request
@@ -83,5 +83,6 @@ Generate <b>key_secret</b> and <b>key_id</b> from razorpay and put both in <b>lo
   ```
   return new RedirectResult("http://localhost:3000", true);
   ```
-###License
+### License
+
 Published under the [MIT License](https://github.com/officialsanjaysharma/3rd-party-payment-azure-functions-Csharp-razorpay/blob/master/License)..
