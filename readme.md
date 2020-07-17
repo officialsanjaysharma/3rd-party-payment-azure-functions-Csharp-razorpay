@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/officialsanjaysharma/razorpay-payment-system-dotnet-core?style=flat-square)](https://github.com/officialsanjaysharma/razorpay-payment-system-dotnet-core/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/officialsanjaysharma/razorpay-payment-system-dotnet-core?style=flat-square)](https://github.com/officialsanjaysharma/3rd-party-payment-azure-functions-Csharp-razorpay/blob/master/License)
 ![npm](https://img.shields.io/npm/v/ng-offline?color=blue&style=flat-square)
 
 # 3rd party payment with Razorpay
@@ -84,4 +84,4 @@ Generate <b>key_secret</b> and <b>key_id</b> from razorpay and put both in <b>lo
   return new RedirectResult("http://localhost:3000", true);
   ```
 #License
-Published under the [MIT License](https://github.com/navneetlal/react-offline-component/blob/master/LICENSE)..
+Published under the [MIT License](https://github.com/officialsanjaysharma/3rd-party-payment-azure-functions-Csharp-razorpay/blob/master/License)..
