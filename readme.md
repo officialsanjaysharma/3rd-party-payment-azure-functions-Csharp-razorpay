@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/officialsanjaysharma/razorpay-payment-system-dotnet-core?style=flat-square)](https://github.com/officialsanjaysharma/3rd-party-payment-azure-functions-Csharp-razorpay/blob/master/License)
+[![GitHub license](https://img.shields.io/github/license/officialsanjaysharma/3rd-party-payment-azure-functions-Csharp-razorpay?style=flat-square)](https://github.com/officialsanjaysharma/3rd-party-payment-azure-functions-Csharp-razorpay/blob/master/License)
 ![npm](https://img.shields.io/npm/v/ng-offline?color=blue&style=flat-square)
 
 # 3rd party payment with Razorpay
